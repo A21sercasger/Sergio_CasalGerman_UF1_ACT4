@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sergio_CasalGerman_UF1_ACT4</string>
+    <string name="Title">Title</string>
+    <string name="ImageDesc">Description</string>
+    <string name="LogCat">LogCat</string>
+    <string name="Toast">Toast</string>
+</resources>
